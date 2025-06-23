@@ -19,13 +19,16 @@ In nuclear magnetic resonance (NMR) spectroscopy, the chemical shift describes t
 
 https://bmrb.io
 
+
 ### Force Fields
 
 A force field is a collection of mathematical equations and associated parameters that describe the potential energy of a system of atoms as a function of their positions. It is essentially a computational model that calculates the forces acting on each atom, which in turn governs their motion and interactions.
 
 #### MACE
 MACE is a a machine learning software for predicting many-body atomic interactions and generating force fields. https://mace-docs.readthedocs.io/en/latest/index.html
+
 Just so it happens that mace descriptors of 3D protein structures are highly informative. https://mace-docs.readthedocs.io/en/latest/guide/descriptors.html
+
 Plotting UMAPs of mace descriptors against several protein properties yields some isles. (see in figures).
 
 
